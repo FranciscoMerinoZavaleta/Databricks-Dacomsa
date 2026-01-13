@@ -1,0 +1,11 @@
+bundle:
+  name: databricks-dacomsa
+
+include:
+  - resources/*.yml
+
+targets:
+  prod:
+    mode: production
+    workspace:
+      host: ${DATABRICKS_HOST}
