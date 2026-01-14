@@ -4,7 +4,7 @@
 
 # COMMAND ----------
 
-# MAGIC %run /Shared/FASE_1/includes
+# MAGIC %run /Workspace/Users/fmzchskinny@gmail.com/.bundle/databricks-dacomsa/prod/files/src/WorkSpace/Pipelines/PL_010_Fase1/includes
 
 # COMMAND ----------
 
