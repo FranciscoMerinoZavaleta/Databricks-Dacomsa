@@ -12,7 +12,6 @@ resources:
           notebook_task:
             notebook_path: ../src/WorkSpace/Pipelines/PL_010_Fase1/JB_020_Abastos_pedidos_programados/NB_010_02_bronze_2_silver_sql_pedidos_programados.py
             source: WORKSPACE
-          job_cluster_key: Job_cluster
         - task_key: silver2gold_pedidos_programados
           existing_cluster_id: "0109-232442-vhmruzz0"
           depends_on:
