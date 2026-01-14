@@ -8,4 +8,4 @@ targets:
   prod:
     mode: production
     workspace:
-      host: ${DATABRICKS_HOST}
+      host: https://adb-7405610082758360.0.azuredatabricks.net
