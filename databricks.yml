@@ -9,3 +9,4 @@ targets:
     mode: production
     workspace:
       host: https://adb-7405610082758360.0.azuredatabricks.net
+      root_path: /Workspace/Users/fmzchskinny@gmail.com/.bundle/${bundle.name}/${bundle.target}
