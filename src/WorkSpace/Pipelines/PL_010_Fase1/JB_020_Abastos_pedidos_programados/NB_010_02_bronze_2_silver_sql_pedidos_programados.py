@@ -14,6 +14,7 @@
 # COMMAND ----------
 
 #Hechos
+
 table = "FACT_PEDIDOS_ESTATUS"
 fact_pedidos = (spark.
                      read.
